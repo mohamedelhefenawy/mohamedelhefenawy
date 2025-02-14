@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @mohamedelhefenawy
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m Front End  with Next , React 
+- 🌱 I’m also an NlP Engineer
+- 💞️ I’m looking to join a new jop
+- 📫 How to reach me 
+phone:01272808556
+E-mail:melhefnawy718@gmail.com
 
 <!---
 mohamedelhefenawy/mohamedelhefenawy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
