@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamedelhefenawy
 - 👀 I’m Front End  with Next , React 
-- 🌱 I’m also an NlP Engineer
+- 🌱 I’m also NlP Engineer
 - 💞️ I’m looking to join a new jop
 - 📫 How to reach me 
 phone:01272808556
